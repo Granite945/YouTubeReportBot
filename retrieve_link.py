@@ -4,8 +4,7 @@ import pandas as pd
 
 from selenium import webdriver
 
-channels = [
-    'https://www.youtube.com/channel/UC2UcOi6RPQG5J3DovCre1JA/videos',
+channels = [SirSkittlesthe3rd)
     'https://www.youtube.com/channel/UCO4mttl54gQ0UW-DqyVrvLQ/videos',
     'https://www.youtube.com/channel/UCuNY7uTtTLTCS34YZHdefjA/videos',
     'https://www.youtube.com/channel/UCjQiROcVtb0ZqPpA-xE2flA/videos',
